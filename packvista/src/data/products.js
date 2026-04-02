@@ -98,7 +98,7 @@ export const products = [
       "Eye-catching holographic BOPP for security and decorative packaging.",
     applications: ["Security labels", "Cosmetics", "Gifts"],
     color: "#b9f6ca",
-    img: "https://image.made-in-china.com/2f0j00PrMeCBvzSsby/Hologram-Laser-Thermal-Lamination-Film-BOPP-Holographic-Overlay-Cold-Lamination-Film.jpg",
+    img: "https://media.istockphoto.com/id/2265540641/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-roller.jpg?s=612x612&w=0&k=20&c=uLd1E0fb4yWML_SpQ0cxClwlKNJNL759YGP5TNBgTTQ=",
   },
   {
     id: 6,
@@ -118,7 +118,7 @@ export const products = [
       "High opacity white BOPP for labels requiring complete light block.",
     applications: ["Label stock", "Stickers", "Tape"],
     color: "#f9fbe7",
-    img: "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    img: "https://media.istockphoto.com/id/487617769/photo/roll-of-aluminum-foil.jpg?s=612x612&w=0&k=20&c=tcM8rh96Cu3RdgevTBbYvgx1pLamX62qmoTnVqkETNA=",
   },
   {
     id: 7,
@@ -138,7 +138,7 @@ export const products = [
       "Aluminum metalized BOPP providing excellent moisture and gas barrier.",
     applications: ["Snack packaging", "Chips", "Namkeen"],
     color: "#ccff90",
-    img: "https://images.unsplash.com/photo-1602524811927-1d6d8c6a2d1a",
+    img: "https://media.istockphoto.com/id/2263399807/photo/battery-manufacturing-materials.jpg?s=612x612&w=0&k=20&c=XomhUVn32ZRneFIVt62ZQirk8G5ywkhwYBY66T6stWk=",
   },
   {
     id: 8,
@@ -158,7 +158,7 @@ export const products = [
       "Cold seal coated BOPP for confectionery and ice cream wrappers.",
     applications: ["Chocolate", "Ice cream", "Candy wrap"],
     color: "#e8f5e9",
-    img: "https://images.unsplash.com/photo-1581091012184-7c4d2d2d2b6f",
+    img: "https://media.istockphoto.com/id/953613032/photo/the-plastic-roll-for-wrap-and-seal-food.jpg?s=612x612&w=0&k=20&c=kTJSN5QwqugoTLZycT84ChDrNrbcBuZ0QstU6xtw3XY=",
   },
   {
     id: 9,
@@ -178,7 +178,7 @@ export const products = [
       "Anti-fog treated BOPP for fresh produce and refrigerated food packaging.",
     applications: ["Vegetables", "Fruits", "Dairy"],
     color: "#f0f4c3",
-    img: "https://images.unsplash.com/photo-1581093588401-22c5f1f16c9c",
+    img: "https://media.istockphoto.com/id/1216452158/photo/the-operation-of-automatic-plastic-bag-production-machine-close-up-of-the-roller-of-the.jpg?s=612x612&w=0&k=20&c=1tmihO9TdCT0eNTA7IGuZ6xOBJIHTqxqEsGz5Rbl49I=",
   },
   {
     id: 10,
@@ -197,7 +197,7 @@ export const products = [
     description: "Ultra-thin high-clarity BOPP for cigarette overwrapping.",
     applications: ["Cigarette packs", "Medicine boxes"],
     color: "#dcedc8",
-    img: "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    img: "https://media.istockphoto.com/id/508446177/photo/rolled-up-paper.jpg?s=612x612&w=0&k=20&c=waR3qYTzsL_5qYS9Q9VIazUwRLrPKv68kbcV78irSkY=",
   },
   {
     id: 11,
@@ -217,7 +217,7 @@ export const products = [
       "Biaxially oriented shrink film for full-body label and bundle shrink.",
     applications: ["Bottle labels", "Multipacks", "Trays"],
     color: "#c8e6c9",
-    img: "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    img: "https://media.istockphoto.com/id/953616082/photo/the-plastic-roll-for-wrap-and-seal-food.jpg?s=612x612&w=0&k=20&c=vDLpSm6vgOTuO65eqx9MNjA8TmPchTU_96gntv3k3P8=",
   },
   {
     id: 12,
@@ -237,7 +237,7 @@ export const products = [
       "Unique sand-texture effect BOPP for tactile premium packaging.",
     applications: ["Premium cosmetics", "Luxury goods"],
     color: "#e8f5e9",
-    img: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    img: "https://media.istockphoto.com/id/1409762592/photo/roll-pvc-film-isolated-on-white-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=x70be2-DOCk0s35C6iU1tkE-yhCo44VGP2EYStX6Wa8=",
   },
   {
     id: 13,
@@ -257,7 +257,7 @@ export const products = [
       "Voided white BOPP with paper-like feel for high-speed labeling.",
     applications: ["Label printing", "Direct print"],
     color: "#f1f8e9",
-    img: "https://images.unsplash.com/photo-1481277542470-605612bd2d61",
+    img: "https://media.istockphoto.com/id/1186808824/photo/blank-white-paper-rolls-mockup-isolated-on-gray-background.jpg?s=612x612&w=0&k=20&c=F-R3RmG92Hx0ykHjyr3WxbGLTAfuHE6c5QerXNhLZS4=",
   },
   {
     id: 14,
@@ -277,7 +277,7 @@ export const products = [
       "Velvet-soft touch lamination BOPP for ultra-premium packaging feel.",
     applications: ["Cosmetics", "Spirits", "Premium boxes"],
     color: "#ccff90",
-    img: "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    img: "https://media.istockphoto.com/id/2158545754/photo/gray-and-white-rolled-paper-on-a-gray-background.jpg?s=612x612&w=0&k=20&c=qQpukmkJy4HgY60JSsEwgM-4LPZL85kdlnQMVGZIcus=",
   },
   {
     id: 15,
@@ -297,7 +297,7 @@ export const products = [
       "Corona-treated BOPP optimized for flexo and gravure printing.",
     applications: ["Flexible packaging", "Pouches"],
     color: "#dcedc8",
-    img: "https://images.unsplash.com/photo-1526378722484-cc5c510b5c73",
+    img: "https://media.istockphoto.com/id/1700341572/photo/roll-of-plastic-garbage-bags-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=b27mypIEwWTHpQ_JE9kyjSMdxDIJf8xPcUvj6kiYX9I=",
   },
   {
     id: 16,
@@ -316,7 +316,7 @@ export const products = [
     description: "Dead-fold BOPP twist film for candy and toffee wrapping.",
     applications: ["Candy", "Toffee", "Hard boiled sweets"],
     color: "#f9fbe7",
-    img: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    img: "https://media.istockphoto.com/id/184408511/photo/blueprint-paper-for-engineering-or-architecture.jpg?s=612x612&w=0&k=20&c=6H9GGBomUodKIdCIv1eWSB6ueDePYXihbBVmEipMwHI=",
   },
   {
     id: 17,
@@ -336,7 +336,7 @@ export const products = [
       "High-barrier BOPP with PVDC or acrylic coating for extended shelf life.",
     applications: ["Biscuits", "Dry fruits", "Coffee"],
     color: "#b9f6ca",
-    img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    img: "https://media.istockphoto.com/id/2261816624/photo/roll-of-plastic-polyethylene-film-is-cut-by-a-food-packaging-machine-industrial-concept.jpg?s=612x612&w=0&k=20&c=2EoD_cSKSw3ZIJGEL9BfEsttt6CUtqUX3_JjU5_kPZs=",
   },
   {
     id: 18,
@@ -355,7 +355,7 @@ export const products = [
     description: "BOPP film for lamination over woven polypropylene sacks.",
     applications: ["Cement bags", "Rice bags", "Feed bags"],
     color: "#e8f5e9",
-    img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    img: "https://media.istockphoto.com/id/1353495214/photo/white-flexi-banner-roll.jpg?s=612x612&w=0&k=20&c=1MzD-moZo43_v0vexQP1UZ3h2TbFZcjcdu-IXruABLU=",
   },
 
   // ── PET (19–34)
@@ -377,7 +377,7 @@ export const products = [
       "Standard clear PET with outstanding dimensional stability and heat resistance.",
     applications: ["Food laminate", "Industrial", "Electronics"],
     color: "#bbdefb",
-    img: "https://image.made-in-china.com/202f0j00HevWGyCBrmpY/12-Micron-Pet-Clear-Transparent-Polyester-Mylar-Sheet-Film-Roll.webp",
+    img: "https://media.istockphoto.com/id/1368066240/photo/thermal-transfer-ribbon-ttr-wax-thermo-ribbon-on-cardboard-reel-for-barcode-supply-material.jpg?s=612x612&w=0&k=20&c=3s9m1bM7lT4ulXANYcfPAMYfUfn_TH0xmP0zgz17z5o=",
   },
   {
     id: 20,
@@ -416,7 +416,7 @@ export const products = [
     description: "Matte-finish PET for elegant, non-reflective lamination.",
     applications: ["Premium labels", "Luxury packaging"],
     color: "#e1f5fe",
-    img: "https://www.cloudflexfilm.com/wp-content/uploads/2024/03/Matte-PET-Film-Printing.jpg",
+    img: "https://media.istockphoto.com/id/487617769/photo/roll-of-aluminum-foil.jpg?s=612x612&w=0&k=20&c=tcM8rh96Cu3RdgevTBbYvgx1pLamX62qmoTnVqkETNA=",
   },
   {
     id: 22,
@@ -476,7 +476,7 @@ export const products = [
       "Biaxially shrinkable PET for tamper-evident and full-body labels.",
     applications: ["Bottle labels", "Beverage cans"],
     color: "#bbdefb",
-    img: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    img: "https://media.istockphoto.com/id/1053942890/photo/a-roll-of-plastic-sheet.jpg?s=612x612&w=0&k=20&c=M9pDzI6o6avumOwhOtAeUrP6EpVstE23hH-9d4oAijA=",
   },
   {
     id: 25,
@@ -496,7 +496,7 @@ export const products = [
       "Silicone-coated PET release liner for adhesive tapes and labels.",
     applications: ["Tape liner", "Label release", "Die-cut"],
     color: "#e8eaf6",
-    img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    img: "https://media.istockphoto.com/id/2248051310/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=64tabIPKc4GJHosDWHyLVjXoWyfTJzXlsmrnFHenpMc=",
   },
   {
     id: 26,
@@ -516,7 +516,7 @@ export const products = [
       "SiOx or AlOx coated PET for transparent high-barrier flexible packaging.",
     applications: ["Retort pouches", "Medical", "Dairy"],
     color: "#e1f5fe",
-    img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    img: "https://media.istockphoto.com/id/1084476284/photo/a-roll-of-plastic-sheet.jpg?s=612x612&w=0&k=20&c=kGYGSafGGGM3us2MKL_x1rjpHXtmxffcqyvKG24ztlA=",
   },
   {
     id: 27,
@@ -536,7 +536,7 @@ export const products = [
       "Permanently antistatic PET for electronics and sensitive component packaging.",
     applications: ["Electronics", "PCB packaging"],
     color: "#e3f2fd",
-    img: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    img: "https://media.istockphoto.com/id/2149184474/photo/protective-film-for-sticking-on-a-car-body.jpg?s=612x612&w=0&k=20&c=mLKSiBt1M7pwcEc-zhUn05HahNxeyNg6JQ41L8v5iaY=",
   },
   {
     id: 28,
@@ -556,7 +556,7 @@ export const products = [
       "Corona-treated PET optimized for gravure and digital printing.",
     applications: ["Flexible packaging", "Pouches", "Bags"],
     color: "#bbdefb",
-    img: "https://images.unsplash.com/photo-1503602642458-232111445657",
+    img: "https://media.istockphoto.com/id/2252279820/photo/industrial-wide-format-printing-machine-prints-advertising-posters-or-banners-on-paper.jpg?s=612x612&w=0&k=20&c=D7k__yanot80VFWDvCFKmpg9mIn3Cf09mAaEBp8G9SA=",
   },
   {
     id: 29,
@@ -576,7 +576,7 @@ export const products = [
       "Stiff dead-fold PET twist film for premium confectionery wrapping.",
     applications: ["Premium candy", "Chocolate"],
     color: "#e8eaf6",
-    img: "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    img: "https://media.istockphoto.com/id/953616976/photo/the-plastic-roll-for-wrap-and-seal-food.jpg?s=612x612&w=0&k=20&c=b_yTxRNGtpfE1fUFMFpp4TQ8aIlYrjmFK4cCVUZWVUk=",
   },
   {
     id: 30,
@@ -596,7 +596,7 @@ export const products = [
       "UV-absorbing PET to protect light-sensitive products from degradation.",
     applications: ["Pharma", "Cosmetics", "Beverages"],
     color: "#e1f5fe",
-    img: "https://images.unsplash.com/photo-1521790360284-1c4a5e9e3a4d",
+    img: "https://media.istockphoto.com/id/2262173239/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=qy1U63arR2uCbzEleEaxon3S4zyeHhaxCM1wlYpt4U4=",
   },
   {
     id: 31,
@@ -616,7 +616,7 @@ export const products = [
       "PET/Nylon structure combining stiffness with puncture resistance.",
     applications: ["Vacuum pouches", "Meat", "Cheese"],
     color: "#e3f2fd",
-    img: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789",
+    img: "https://media.istockphoto.com/id/1290656718/photo/polyethylene-laminating-and-rewinding-kind-of-protective-film.jpg?s=612x612&w=0&k=20&c=4ujERYycfZYvQNkDofYVL8nSdkfo-fPGADnXP_GNGFc=",
   },
   {
     id: 32,
@@ -636,7 +636,7 @@ export const products = [
       "PET/Al foil laminate for maximum barrier in retort and pharma packaging.",
     applications: ["Retort", "Pharma blister", "Coffee"],
     color: "#bbdefb",
-    img: "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    img: "https://media.istockphoto.com/id/2019907327/photo/the-mechanical-equipment-of-the-plastic-weaving-production-line-is-running-in-a-factory.jpg?s=612x612&w=0&k=20&c=7j0SrgaCF-pqt9CFcncAJBajLtmTQoQcNftD2BUQj34=",
   },
   {
     id: 33,
@@ -656,7 +656,7 @@ export const products = [
       "PET lamination film for woven bags providing water resistance.",
     applications: ["FIBC bags", "PP woven sacks"],
     color: "#e8eaf6",
-    img: "https://images.unsplash.com/photo-1602524811927-1d6d8c6a2d1a",
+    img: "https://media.istockphoto.com/id/2264457774/photo/a-machine-with-a-roll-of-polyethylene-plastic-wrapping-film-on-it-the-machine-is-in-a-factory.jpg?s=612x612&w=0&k=20&c=u3V-v86MWPqZRF6VHVAUeSd-_iTUXK7xn5plfmcPKCs=",
   },
   {
     id: 34,
@@ -676,7 +676,7 @@ export const products = [
       "High-temp sterilizable PET structure for retort food pouches.",
     applications: ["Ready-to-eat", "Curry pouches", "Baby food"],
     color: "#e3f2fd",
-    img: "https://images.unsplash.com/photo-1581091012184-7c4d2d2b6f",
+    img: "https://media.istockphoto.com/id/2264457774/photo/a-machine-with-a-roll-of-polyethylene-plastic-wrapping-film-on-it-the-machine-is-in-a-factory.jpg?s=612x612&w=0&k=20&c=u3V-v86MWPqZRF6VHVAUeSd-_iTUXK7xn5plfmcPKCs=",
   },
 
   // ── CPP (35–50)
@@ -698,7 +698,7 @@ export const products = [
       "Standard transparent CPP with excellent sealing and moisture barrier.",
     applications: ["Food pouches", "Bread bags", "Garment bags"],
     color: "#fff3e0",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwofdSzNQncYDUXsLWtt_DRhwd_AAUtic0g&s",
+    img: "https://media.istockphoto.com/id/1464946549/photo/a-roll-of-adhesive-transparent-tape-on-a-white-background.jpg?s=612x612&w=0&k=20&c=cTUubL6Sf7n-ssRYYVJ5KSqHzS703gQGHrwZxpdUAqs=",
   },
   {
     id: 36,
@@ -718,7 +718,7 @@ export const products = [
       "Matte CPP for elegant packaging with anti-glare and soft-touch feel.",
     applications: ["Cosmetics packaging", "Premium food"],
     color: "#ffe0b2",
-    img: "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    img: "https://media.istockphoto.com/id/1369392342/photo/thermal-transfer-ribbon-ttr-wax-thermo-ribbon-on-cardboard-reel-for-barcode-supply-material.jpg?s=612x612&w=0&k=20&c=346ZIIiHnpo8bpn9eGG0la1bbsRSvjomL65k19Bjc0Y=",
   },
   {
     id: 37,
@@ -738,7 +738,7 @@ export const products = [
       "Metalized CPP combining barrier properties with attractive metallic look.",
     applications: ["Chips", "Namkeen", "Spice pouches"],
     color: "#fff8e1",
-    img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    img: "https://media.istockphoto.com/id/2248051310/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=64tabIPKc4GJHosDWHyLVjXoWyfTJzXlsmrnFHenpMc=",
   },
   {
     id: 38,
@@ -758,7 +758,7 @@ export const products = [
       "White opaque CPP providing excellent print surface and light block.",
     applications: ["Label stock", "Dairy packaging"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    img: "https://media.istockphoto.com/id/911770272/photo/a-roll-of-transparent-film-on-the-bar-slitter-rewinders.jpg?s=612x612&w=0&k=20&c=NUWb_uOvMPP-H_ZJTLtFXmuB095Z2V2ZBoaQLuiPJq8=",
   },
   {
     id: 39,
@@ -778,7 +778,7 @@ export const products = [
       "High-crystallinity CPP designed to withstand retort sterilization.",
     applications: ["Retort pouches", "Ready meals", "Pet food"],
     color: "#ffe0b2",
-    img: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    img: "https://media.istockphoto.com/id/2259304768/photo/rolls-of-white-polyethylene-film-for-the-production-of-packages-and-packaging-are-shown-close.jpg?s=612x612&w=0&k=20&c=prZFOrLhuH3VaG8dK0SUGVI-yxjmr6b07c2SLiPZprw=",
   },
   {
     id: 40,
@@ -798,7 +798,7 @@ export const products = [
       "Pearlescent CPP providing premium look for gift and confectionery packaging.",
     applications: ["Gifts", "Confectionery", "Flower wrap"],
     color: "#fff8e1",
-    img: "https://images.unsplash.com/photo-1503602642458-232111445657",
+    img: "https://media.istockphoto.com/id/675323804/photo/spools-of-paper-and-metal-rollers-working-print-machine-selective-focus.jpg?s=612x612&w=0&k=20&c=3QKIfvRnT065KcuEWy3SEXjdGUKVkeBTWwZMazLlJDk=",
   },
   {
     id: 41,
@@ -818,7 +818,7 @@ export const products = [
       "Easy-open CPP with low seal initiation temperature for high-speed lines.",
     applications: ["Bread bags", "Snacks", "Flow wraps"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    img: "https://media.istockphoto.com/id/1783653519/photo/white-polygraph-paper-on-a-cardboard-core-a-bundle-of-leftover-paper-in-a-printing-house.jpg?s=612x612&w=0&k=20&c=SCzNn2dAriiwOSdeJddIdO8VJM91_7l7ZF-cMRjDB_k=",
   },
   {
     id: 42,
@@ -838,7 +838,7 @@ export const products = [
       "Anti-fog CPP for fresh produce preventing condensation inside packs.",
     applications: ["Vegetables", "Salads", "Fruits"],
     color: "#ffe0b2",
-    img: "https://images.unsplash.com/photo-1521790360284-1c4a5e9e3a4d",
+    img: "https://media.istockphoto.com/id/2261817645/photo/close-up-of-the-roller-of-the-plastic-bag-production-machine-in-the-light-blue-scene-product.jpg?s=612x612&w=0&k=20&c=SvdgVjCArbHKY_NOEwBai--Y_U52_ysf8V1kUs8_6a4=",
   },
   {
     id: 43,
@@ -858,7 +858,7 @@ export const products = [
       "CPP/Nylon co-ex for superior oxygen barrier in vacuum applications.",
     applications: ["Cheese", "Cured meats", "Vacuum bags"],
     color: "#fff8e1",
-    img: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789",
+    img: "https://media.istockphoto.com/id/675323720/photo/polygraphic-process-and-white-paper-and-rollers-on-large-print-machine-in-a-modern-printing.jpg?s=612x612&w=0&k=20&c=pIdr3-G5lQ0xKWTD8cNO5ojio1O-5_j4qPrzB2ynk_E=",
   },
   {
     id: 44,
@@ -878,7 +878,7 @@ export const products = [
       "Oriented CPP shrink film for sleeve labels and shrink bundling.",
     applications: ["Sleeve labels", "Bundling", "Trays"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    img: "https://media.istockphoto.com/id/2257026666/photo/a-roll-of-polyethylene-film-is-wrapped-around-a-car-polyethylene-film-for-packaging-logistics.jpg?s=612x612&w=0&k=20&c=fcjEY3y0a3tpKElf8v8B5n25LTB032125ldjFejR7Fc=",
   },
   {
     id: 45,
@@ -897,7 +897,7 @@ export const products = [
     description: "Thick rigid CPP for pharmaceutical blister pack forming.",
     applications: ["Pharma blisters", "Capsules", "Tablets"],
     color: "#ffe0b2",
-    img: "https://images.unsplash.com/photo-1602524811927-1d6d8c6a2d1a",
+    img: "https://media.istockphoto.com/id/1023523356/photo/flexo-press-for-printing-label.jpg?s=612x612&w=0&k=20&c=IxFJBrf_kVCrN3YJYNwaCN6hMcaHEYW_aICxkNRGDCo=",
   },
   {
     id: 46,
@@ -917,7 +917,7 @@ export const products = [
       "Flexible CPP for soft-touch packaging of garments and textiles.",
     applications: ["Garments", "Textiles", "Apparel"],
     color: "#fff8e1",
-    img: "https://images.unsplash.com/photo-1581091012184-7c4d2d2b6f",
+    img: "https://media.istockphoto.com/id/508446181/photo/rolled-up-paper.jpg?s=612x612&w=0&k=20&c=eJ93WX474cgWjnhrHtCL_ET7zUXK3Ql2A3sUO-aeZm0=",
   },
   {
     id: 47,
@@ -937,7 +937,7 @@ export const products = [
       "Surface-treated CPP for excellent ink adhesion in flexo printing.",
     applications: ["Flexible packs", "Printed pouches"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1581093588401-22c5f1f16c9c",
+    img: "https://media.istockphoto.com/id/2258169762/photo/automatic-polyethylene-plastic-bag-production-machine-close-up-of-roller-of-plastic-bag.jpg?s=612x612&w=0&k=20&c=iv4bPJsotCHbz3KbbFn_g5_RAEzdo4YazE3z2H3kpGE=",
   },
   {
     id: 48,
@@ -957,7 +957,7 @@ export const products = [
       "CPP engineered to maintain flexibility and seal at sub-zero temperatures.",
     applications: ["Frozen food", "Ice cream", "Cold chain"],
     color: "#ffe0b2",
-    img: "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    img: "https://media.istockphoto.com/id/1426245523/photo/white-polygraph-paper-on-a-cardboard-core-a-bundle-of-leftover-paper-in-a-printing-house.jpg?s=612x612&w=0&k=20&c=icndi6booMVj61PMbkWlfvhxDT8gM4C6DACozIhNxQc=",
   },
   {
     id: 49,
@@ -977,7 +977,7 @@ export const products = [
       "Standard CPP used as sealant layer in multi-layer laminate structures.",
     applications: ["Snack laminate", "Coffee laminate", "Juice"],
     color: "#fff8e1",
-    img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    img: "https://media.istockphoto.com/id/1432754876/photo/white-polygraph-paper-on-a-cardboard-core-a-bundle-of-leftover-paper-in-a-printing-house.jpg?s=612x612&w=0&k=20&c=jGw3I5EudubqYBxElBYhAgE_bSit9Onhspi1C_BvJRU=",
   },
   {
     id: 50,
@@ -997,7 +997,7 @@ export const products = [
       "Ultra-high clarity CPP with haze <2% for premium window packaging.",
     applications: ["Window cartons", "Premium food", "Gift packs"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    img: "https://media.istockphoto.com/id/1503966608/photo/automatic-industrial-machine-for-plastic-packaging-with-light-effect-of-products-and-food.jpg?s=612x612&w=0&k=20&c=v-9pwR6ROmdUPNnMIc3g1vibhLVm8qXMOpjIyTw78sc=",
   },
   // ── EXTRA LAMINATED (51–60)
   {
@@ -1018,7 +1018,7 @@ export const products = [
       "BOPP and PET laminated structure offering strength and clarity for premium packaging.",
     applications: ["Snack packaging", "Dry food", "Retail packs"],
     color: "#e0f7fa",
-    img: "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    img: "https://media.istockphoto.com/id/1068628136/photo/a-roll-of-plastic-sheet.jpg?s=612x612&w=0&k=20&c=Mcc8hkXnbcv_Qx_WkFX1Bx9SoCYPiLpF7UDBzEf_08s=",
   },
 
   {
@@ -1039,7 +1039,7 @@ export const products = [
       "PET and CPP laminated film providing excellent seal strength and durability.",
     applications: ["Food pouches", "Frozen food", "Liquid packaging"],
     color: "#e1f5fe",
-    img: "https://images.unsplash.com/photo-1503602642458-232111445657",
+    img: "https://media.istockphoto.com/id/953616082/photo/the-plastic-roll-for-wrap-and-seal-food.jpg?s=612x612&w=0&k=20&c=vDLpSm6vgOTuO65eqx9MNjA8TmPchTU_96gntv3k3P8=",
   },
 
   {
@@ -1060,7 +1060,7 @@ export const products = [
       "High clarity PET laminated with BOPP for enhanced strength and printability.",
     applications: ["Flexible packs", "Labeling", "Retail packaging"],
     color: "#f1f8e9",
-    img: "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    img: "https://media.istockphoto.com/id/2267287388/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=0RxoAYVFREwJM8UBxH6bJLgoaOJYCAXIdQBV7miw1x0=",
   },
 
   {
@@ -1081,7 +1081,7 @@ export const products = [
       "PET laminated with polyethylene for moisture resistance and strong sealing.",
     applications: ["Milk pouches", "Liquid packs", "Frozen food"],
     color: "#e8eaf6",
-    img: "https://images.unsplash.com/photo-1521790360284-1c4a5e9e3a4d",
+    img: "https://media.istockphoto.com/id/1394554896/photo/industrial-products-printing-paper.jpg?s=612x612&w=0&k=20&c=pq1Meo22j_7f-mxg1_heahd0TPe7qS5p1FOf3fccjVM=",
   },
 
   {
@@ -1102,7 +1102,7 @@ export const products = [
       "BOPP laminated with CPP offering good barrier and heat seal properties.",
     applications: ["Snacks", "Bakery", "Dry food"],
     color: "#e0f2f1",
-    img: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789",
+    img: "https://media.istockphoto.com/id/1783653519/photo/white-polygraph-paper-on-a-cardboard-core-a-bundle-of-leftover-paper-in-a-printing-house.jpg?s=612x612&w=0&k=20&c=SCzNn2dAriiwOSdeJddIdO8VJM91_7l7ZF-cMRjDB_k=",
   },
 
   {
@@ -1123,7 +1123,7 @@ export const products = [
       "Three-layer laminate with aluminum foil for superior barrier protection.",
     applications: ["Coffee", "Pharma", "Retort pouches"],
     color: "#ede7f6",
-    img: "https://images.unsplash.com/photo-1581578731548-c64695cc6952",
+    img: "https://media.istockphoto.com/id/1368066240/photo/thermal-transfer-ribbon-ttr-wax-thermo-ribbon-on-cardboard-reel-for-barcode-supply-material.jpg?s=612x612&w=0&k=20&c=3s9m1bM7lT4ulXANYcfPAMYfUfn_TH0xmP0zgz17z5o=",
   },
 
   {
@@ -1144,7 +1144,7 @@ export const products = [
       "High strength laminate with nylon layer for puncture resistance.",
     applications: ["Vacuum packs", "Meat", "Cheese"],
     color: "#f3e5f5",
-    img: "https://images.unsplash.com/photo-1602524811927-1d6d8c6a2d1a",
+    img: "https://media.istockphoto.com/id/492317254/photo/adhesive-tapes.jpg?s=612x612&w=0&k=20&c=kopTh5cMpd32EirfZjQXJZW8IflHkYmh8jKNTHspZeM=",
   },
 
   {
@@ -1165,7 +1165,7 @@ export const products = [
       "BOPP laminated with PE for flexible and durable packaging solutions.",
     applications: ["Garments", "Food wraps", "Industrial"],
     color: "#e8f5e9",
-    img: "https://images.unsplash.com/photo-1581091012184-7c4d2d2b6f",
+    img: "https://media.istockphoto.com/id/2262173239/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=qy1U63arR2uCbzEleEaxon3S4zyeHhaxCM1wlYpt4U4=",
   },
 
   {
@@ -1186,7 +1186,7 @@ export const products = [
       "Retort-grade laminate suitable for high temperature sterilization.",
     applications: ["Ready meals", "Curry", "Pet food"],
     color: "#fff3e0",
-    img: "https://images.unsplash.com/photo-1581093588401-22c5f1f16c9c",
+    img: "https://media.istockphoto.com/id/2262173239/photo/automatic-polyethylene-plastic-bag-production-machine-with-lighting-effect-close-up-of-the.jpg?s=612x612&w=0&k=20&c=qy1U63arR2uCbzEleEaxon3S4zyeHhaxCM1wlYpt4U4=",
   },
 
   {
@@ -1207,10 +1207,9 @@ export const products = [
       "Foil-based laminate for maximum barrier and long shelf-life packaging.",
     applications: ["Pharma", "Coffee", "Dry foods"],
     color: "#fce4ec",
-    img: "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    img: "https://media.istockphoto.com/id/953616698/photo/the-plastic-roll-for-wrap-and-seal-food.jpg?s=612x612&w=0&k=20&c=xE-Mv0CwyIOAfrCwJOW-HGZ-6NGrpB_q_Ql6E4yiZ24=",
   },
 ];
-
 export const categories = ["All", "BOPP", "PET", "CPP", "LAMINATED"];
 
 export const getByCategory = (cat) =>
